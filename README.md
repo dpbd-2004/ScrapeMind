@@ -2,7 +2,9 @@
 
 ScrapeMind is an intelligent web scraping tool that leverages the power of large language models (LLMs) to parse and extract data from any website using natural language queries. Built with Python, Streamlit, Selenium, and Ollama, this application provides a simple web interface to turn unstructured web content into structured data.
 
-![ScrapeMind Demo] <img width="703" height="630" alt="image" src="https://github.com/user-attachments/assets/62f97257-5420-4449-b679-949d4aa591b1" />
+![ScrapeMind Demo]
+
+<img width="703" height="630" alt="image" src="https://github.com/user-attachments/assets/62f97257-5420-4449-b679-949d4aa591b1" />
 
 ## ✨ Features
 
